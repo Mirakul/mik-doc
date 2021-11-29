@@ -1,3 +1,4 @@
+//ćika kauzlarić provjerio, točno je
 #include <avr/io.h>
 #include <LiquidCrystal.h>
 #include <stdio.h> //za sprintf
